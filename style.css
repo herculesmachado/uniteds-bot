@@ -193,9 +193,12 @@ body{
         height: 330px;
     }
 
+    .conteudo-secundario-titulo{
+        font-size: 22px;
+    }
+
     .conteudo-secundario-paragrafo{
         padding: 0px 32px;
-        text-align: justify;
     }
 
 }
